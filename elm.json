@@ -1,7 +1,8 @@
 {
     "type": "application",
     "source-directories": [
-        "examples"
+        "examples",
+        "Rebuilds"
     ],
     "elm-version": "0.19.0",
     "dependencies": {
